@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  box-align: center;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: #24302f;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  width: 400px;
+  color:black;
+  background-color:rgb(241, 106, 16);
+  text-align: center;
+}
+
+p.complement {
+  width: 400px;
+   color:black;
+   background-color:rgb(241, 106, 16);
+   text-align: center; 
+}
+
+button.request-complement {
+  width: 400px;
+  color:black;
+  text-align: center; 
+}
